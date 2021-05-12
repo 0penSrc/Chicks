@@ -1,1 +1,1 @@
-# horze
+# JS Modal
